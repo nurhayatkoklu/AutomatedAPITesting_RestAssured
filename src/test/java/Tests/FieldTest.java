@@ -1,3 +1,5 @@
+package Tests;
+
 import POJO.Fields;
 import io.restassured.http.ContentType;
 import io.restassured.http.Cookies;

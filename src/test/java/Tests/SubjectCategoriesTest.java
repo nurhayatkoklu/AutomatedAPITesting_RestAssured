@@ -1,3 +1,4 @@
+package Tests;
 
 import POJO.SubjectCategories;
 import io.restassured.http.ContentType;

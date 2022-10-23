@@ -1,3 +1,4 @@
+package Tests;
 
 import POJO.Discount;
 import io.restassured.http.ContentType;
